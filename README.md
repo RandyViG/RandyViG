@@ -3,7 +3,7 @@
 I'm student of Computer System Engineering at ESCOM-IPN.
 
 - 😄 Pronouns: He | Him
-- 🌱 I’m currently learning Embedeed Systems.
+- 🌱 I’m currently learning Embedded Systems.
 - 💻 Programming Lenguages: C, C++, Javascript, Java, Python, Bash Shell.
 - 🛠️ Technologies: HTML, CSS, Boostrao, LaTeX, Node.js, Flask, Unix.
 - 📘 Databases: MySQL, Firestore, MongoDB.
