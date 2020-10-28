@@ -10,8 +10,9 @@ I'm student of Computer System Engineering at ESCOM-IPN.
 
 ## 📫 How to reach me:
 
-- <a href="https://www.linkedin.com/in/randy-villanueva-guzmán-39b4661b9"> <img alt="Linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /> </a>
-- <img alt="Email" width="40px" src="https://img.icons8.com/fluent/48/000000/email-open.png"/> randy_VG@outlook.com
+<a href="https://www.linkedin.com/in/randy-villanueva-guzmán-39b4661b9"> <img alt="Linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /> </a> <a href="https://www.linkedin.com/in/randy-villanueva-guzmán-39b4661b9"> Randy Villanueva Guzmán </a>
+
+<img alt="Email" width="40px" src="https://img.icons8.com/fluent/48/000000/email-open.png"/> randy_VG@outlook.com
 
 <!--
 **RandyViG/RandyViG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
